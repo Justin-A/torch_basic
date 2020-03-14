@@ -2,4 +2,4 @@
 - Basic Concept about MLP, CNN, RNN
 - Easy Process to learn pyTorch Framework
 - Data : Please Contact to me by e-mail
-- New Lecture Coming soon...
+- https://www.inflearn.com/course/PyTorch-딥러닝
